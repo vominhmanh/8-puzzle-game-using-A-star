@@ -1,4 +1,4 @@
-# 8 puzzle game using A star algorithm
+# 8 puzzle game using A star algorithm PHP
 8 – PUZZLE GAME USING A* (A-STAR) BY PHP + HTML, CSS, JS
 <br>The simple way to create 8 Puzzle Game using Basic Knowledge of PHP, HTML/CSS/JS. Don't worry, you will must understand my code.
 <br> You can see our demo in this link: https://rmp5.000webhostapp.com/8puzzle/
