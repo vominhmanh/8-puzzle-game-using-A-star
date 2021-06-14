@@ -1,4 +1,4 @@
-# 8-puzzle-game-using-A-star
+# 8 puzzle game using A star algorithm
 8 – PUZZLE GAME USING A* (A-STAR) BY PHP + HTML, CSS, JS
 <br>The simple way to create 8 Puzzle Game using Basic Knowledge of PHP, HTML/CSS/JS. Don't worry, you will must understand my code.
 <br> You can see our demo in this link: https://rmp5.000webhostapp.com/8puzzle/
@@ -6,7 +6,7 @@
 <b>Before you continue, ensure you meet the following requirements:</b>
 * You have installed PHP 7.0 or later 
 * You should use Chrome on PC or phone for best performance.
-* You have a basic understanding of AJAX, Basic Artificial Inteligent theory.
+* You have a basic understanding of AJAX, Basic Artificial Inteligence theory.
 
 
 <b>What's on my project?</b>
@@ -25,3 +25,5 @@
 <br>  `1 * x * 8 `
 <br>  `7 * 2 * 4 `
  * 0 to make index of array matches index of data. 
+
+tag: a star algorithm, 8 puzzle game, sliding puzzle game, a-star algorithm, 8 puzzles, 8-puzzles, ajax, php, artificial intelligence, bfs, greedy, simple game, easy code
